@@ -1,1 +1,8 @@
-{'num':'1', 'msgs':'\nThis app is Enterly FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n'}
+{ 
+   "force_update":false,
+   "version":1.0,
+   "changelog":"
+   \n[Base] 208.0.0.32.135!
+   \n[Added] Download Settings!
+   \n[Fixed] Many other fixes and improvements!"
+}
