@@ -1,1 +1,9 @@
-{'ver1':'9', 'ver2':'90', 'ver3':'\n[Base]1. 223.1.0.14.103\n[Added]2. Added Themes\n' , 'dli':'https://www.instamod.net/2021/07/instapro-latest-version-apk-download.html'}
+{ 
+   "force_update":false,
+   "version":2.0,
+   "changelog":"
+   \n[Base] 208.0.0.32.135!
+   \n[Added] Download Settings!
+   \n[Fixed] Many other fixes and improvements!
+   \n[Added] Developed by cappzy mods!"
+}
